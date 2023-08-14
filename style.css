@@ -1,0 +1,70 @@
+    body {
+        background: #08bcd4;
+        margin: 0px;
+    }
+
+    form {
+        width: 36%;
+        height: 550px;
+        margin-top: 80px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        background: white;
+        border-top-left-radius: 100px;
+        border-bottom-right-radius: 100px;
+    }
+
+    .uphead {
+        font-size: 30px;
+        font-family: Arial;
+        font-weight: bold;
+        color: #08bcd4;
+        padding-top: 80px;
+        margin-bottom: 80px;
+    }
+
+    .adminpage {
+        padding-bottom: 8px;
+        padding-left: 3px;
+        width: 70%;
+        height: 30px;
+        background: white;
+        font-size: 17px;
+        border: none;
+        border-bottom: 3px solid rgb(131, 131, 131);   
+    }
+
+    input[type="checkbox"]:checked {
+            -webkit-appearance: checkbox;
+            -moz-appearance: checkbox;
+            appearance: checkbox;
+            display: inline-block;
+            width: auto;
+            accent-color: grey;
+            margin-top: 20px;
+            margin-left: -275px;
+    }
+
+    .lab1 {
+        margin-top: -20px;
+        
+    }
+
+    .butt1 {
+        width: 70%;
+        height: 45px;
+        font-size: 21px;
+        font-family: Arial;
+        font-weight: bold;
+        margin-top: 20px;
+        background: #08bcd4;
+        color: white;
+        border: none;
+        border-radius: 25px;
+        margin-bottom: 15px;
+    }
+
+    .lab2 {
+        color: #08bcd4;
+    }
